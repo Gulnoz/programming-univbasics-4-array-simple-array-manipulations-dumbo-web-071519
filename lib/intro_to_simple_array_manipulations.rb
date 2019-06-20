@@ -33,10 +33,12 @@ def using_uniq(array)
 array.uniq
 end
 
-def using_flatten(array, srting)
+def using_flatten(array)
+array.flatten
 end
 
 def using_delete(array, srting)
+
 end
 
 def using_delete_at(array, srting)
