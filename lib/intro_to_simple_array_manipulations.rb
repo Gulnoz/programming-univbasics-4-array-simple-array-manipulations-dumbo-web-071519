@@ -30,3 +30,6 @@ end
 
 def using_delete(array, srting)
 end
+
+def using_delete(array, srting)
+end
