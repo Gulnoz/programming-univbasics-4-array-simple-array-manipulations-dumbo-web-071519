@@ -29,8 +29,8 @@ def using_insert(array, el)
 array.insert(el,3)
 end
 
-def using_uniq(array, srting)
-
+def using_uniq(array)
+array.uniq
 end
 
 def using_flatten(array, srting)
