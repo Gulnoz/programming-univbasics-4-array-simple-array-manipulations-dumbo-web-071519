@@ -16,5 +16,5 @@ end
 def shift_with_args(array, srting)
 end
 
-def using_unshift(array, srting)
+def using_concat(array, srting)
 end
