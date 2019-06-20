@@ -7,10 +7,10 @@ end
 def using_pop(array, srting)
 end
 
-def using_unshift(array, srting)
+def pop_with_args(array, srting)
 end
 
-def using_unshift(array, srting)
+def using_shift(array, srting)
 end
 
 def using_unshift(array, srting)
