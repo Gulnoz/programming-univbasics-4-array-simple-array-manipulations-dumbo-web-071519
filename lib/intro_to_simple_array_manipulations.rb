@@ -13,7 +13,7 @@ end
 def using_shift(array, srting)
 end
 
-def using_unshift(array, srting)
+def shift_with_args(array, srting)
 end
 
 def using_unshift(array, srting)
