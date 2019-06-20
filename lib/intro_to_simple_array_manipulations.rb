@@ -4,7 +4,7 @@ end
 def using_unshift(array, srting)
 end
 
-def using_unshift(array, srting)
+def using_pop(array, srting)
 end
 
 def using_unshift(array, srting)
