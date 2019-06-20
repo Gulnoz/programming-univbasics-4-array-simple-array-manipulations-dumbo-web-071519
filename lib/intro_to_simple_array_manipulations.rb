@@ -28,5 +28,5 @@ end
 def using_flatten(array, srting)
 end
 
-def using_concat(array, srting)
+def using_delete(array, srting)
 end
