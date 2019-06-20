@@ -1,7 +1,7 @@
 def using_push(array, string)
 array.push(string)
 end
-def using_unshift(array, srting)
+def using_unshift(array, string)
 array.unshift(string)
 end
 
@@ -25,11 +25,12 @@ def using_concat(array1, array2)
 array1.concat(array2)
 end
 
-def using_insert(array, srting)
-
+def using_insert(array, el)
+array.insert(el,3)
 end
 
 def using_uniq(array, srting)
+
 end
 
 def using_flatten(array, srting)
