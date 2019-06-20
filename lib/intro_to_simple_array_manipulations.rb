@@ -18,3 +18,15 @@ end
 
 def using_concat(array, srting)
 end
+
+def using_insert(array, srting)
+end
+
+def using_uniq(array, srting)
+end
+
+def using_flatten(array, srting)
+end
+
+def using_concat(array, srting)
+end
