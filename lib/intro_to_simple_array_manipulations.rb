@@ -3,3 +3,18 @@ array.push(string)
 end
 def using_unshift(array, srting)
 end
+
+def using_unshift(array, srting)
+end
+
+def using_unshift(array, srting)
+end
+
+def using_unshift(array, srting)
+end
+
+def using_unshift(array, srting)
+end
+
+def using_unshift(array, srting)
+end
