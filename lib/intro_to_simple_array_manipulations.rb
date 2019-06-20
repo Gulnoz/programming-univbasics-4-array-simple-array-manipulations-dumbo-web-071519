@@ -18,10 +18,11 @@ array.shift
 end
 
 def shift_with_args(array)
-array.shift
+array.shift(2)
 end
 
 def using_concat(array, srting)
+
 end
 
 def using_insert(array, srting)
